@@ -4,8 +4,22 @@
 entries:
   - title: info
     entries:
-      - title: Notes, experiments, and questions about ML, systems and random other shit
+      - title: Notes, experiments, and questions
+      
+  - title: Can I/Why Can't I?
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: All posts...
+      show_more_url: archive.html
 
+  - title: Why is/Why isn't?
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: All posts...
+      show_more_url: archive.html
+      
   - title: all posts
     post_list:
       limit: 5
